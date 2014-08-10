@@ -1,9 +1,9 @@
 # 前言
 
-欢迎来到太极语言的世界。《太极真经－太极语言实用指南》将指导你学习如何使用太极语言，特别是学习使用太极语言编程。
+欢迎来到太极语言的世界。《太极真经－太极语言编程指南》将指导你学习如何使用太极语言，特别是学习使用太极语言编程。
 
 太极语言是一门新的高级语言，具有很多创新的特点。它的内核继承了lisp的精神，在从源语言转换到目标语言的过程中，在每个阶段都使用了基于列表的中间表示。同时，太极语言又采用了主流高级语言的语法，特别是缩进式的语法。这样使得代码更加清晰，简洁，易写易读，更加符合人的一般习惯和直觉。除了语言提供的预定义语法以外，程序员可以在程序中动态控制语法。太极语言有一个重大的创新，就是它的元编译能力。lisp的强大的宏功能在太极语言里表现为元编译技术的的一个特例。
 
-[![Screen](./assets/intro.png)](./assets/intro.png)
+[![Screen](./images/200x200/taiji-1-0.jpg)](./images/200x200/taiji-1-0.jpg)
 
-**提示:** 本书使用 [GitBook](http://www.gitbook.io) 制作，是一本开源电子书, 欢迎参与或提交问题到[本书的github项目](https://github.com/taijiweb/taijizhenjing)。你也可以从[这里](https://github.com/taijiweb/taijilang)下载本书的 **PDF** 或 **ePUB** 版本 .
+**提示:** 本书使用 [GitBook](http://www.gitbook.io) 制作，是一本开源电子书, 欢迎参与或提交问题到[本书的github项目](https://github.com/taijiweb/taijizhenjing)。你也可以从[这里](https://github.com/taijiweb/taijilang)下载本书的 **PDF** 或 **ePUB** 版本.
